@@ -64,6 +64,7 @@ Clean English CSV Output
         ↓
 Power BI Scheduled Refresh
 
+<img width="1536" height="1024" alt="Automated project image" src="https://github.com/user-attachments/assets/35b6bd33-c68e-43d4-b9b2-02b1e0c97294" />
 
 ## 📊 Risk Scoring Logic
 
@@ -120,5 +121,5 @@ python icu_full_automation_pipeline.py
 4. Connect the output CSV to Power BI
 5. Enable scheduled refresh
 
-<img width="1536" height="1024" alt="Automated project image" src="https://github.com/user-attachments/assets/35b6bd33-c68e-43d4-b9b2-02b1e0c97294" />
+
 
